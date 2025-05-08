@@ -9,7 +9,7 @@ export const defaultConfig: ThemeConfig = {
     subtitle: '一间只属于自己的房间',
     author: 'kiki',
     description: 'Rediscory the beauty of typography',
-    website: 'https://astro-theme-typography.vercel.app/',
+    website: 'https://github.com/kikiroom',
     pageSize: 5,
     socialLinks: [
       {
